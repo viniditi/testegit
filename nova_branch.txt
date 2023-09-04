@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Eu moro em SP
 Brasil
+=======
+Eu moro em SP
+>>>>>>> b131b33553c2be339aa24a4e7888f786afd8743f
